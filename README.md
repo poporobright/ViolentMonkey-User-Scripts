@@ -106,4 +106,4 @@ Bug reports and suggestions are welcome. Open an issue and include your browser,
 
 ## License
 
-Add your license here (for example, MIT).
+MIT License.
