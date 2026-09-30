@@ -6,7 +6,7 @@ A collection of userscripts for [Violentmonkey](https://violentmonkey.github.io/
 
 | Script | Description | Install |
 | --- | --- | --- |
-| **Web EQ** | 10-band equalizer with preamp, presets and limiter. Adds an EQ button next to the YouTube search bar and in the player controls. Works on YouTube, YouTube Music, Vimeo, Twitch, Dailymotion and SoundCloud. | [Install](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/web-eq.user.js) |
+| **Web EQ** | 10-band equalizer with preamp, presets and limiter. Adds an EQ button next to the YouTube search bar and in the player controls. Works on YouTube, YouTube Music, Vimeo, Twitch, Dailymotion and SoundCloud. | [Install](https://github.com/poporobright/ViolentMonkey-User-Scripts/releases/download/Files/web-eq.user.js) |
 
 > Replace `YOUR_USERNAME/YOUR_REPO` with your GitHub username and repository name, and adjust the branch name if it isn't `main`.
 
