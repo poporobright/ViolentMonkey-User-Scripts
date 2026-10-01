@@ -7,6 +7,7 @@ A collection of userscripts for [Violentmonkey](https://violentmonkey.github.io/
 | Script | Description | Install |
 | --- | --- | --- |
 | **Web EQ** | 10-band equalizer with preamp, presets and limiter. Adds an EQ button next to the YouTube search bar and in the player controls. Works on YouTube, YouTube Music, Vimeo, Twitch, Dailymotion and SoundCloud. | [Install](https://github.com/poporobright/ViolentMonkey-User-Scripts/releases/download/Files/web-eq.user.js) |
+| **Download Anything** | Lists every downloadable file on the current page (documents, images, video, audio, archives, software) with thumbnails and video previews, search, type filters, file sizes and batch download. Detects separate video and audio tracks on sites like Facebook. Works on any site; open it with the floating button or **Alt+Shift+D**. | [Install](https://github.com/poporobright/ViolentMonkey-User-Scripts/releases/download/Files/page-download-finder.user.js) |
 
 > Replace `YOUR_USERNAME/YOUR_REPO` with your GitHub username and repository name, and adjust the branch name if it isn't `main`.
 
